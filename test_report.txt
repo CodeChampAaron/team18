@@ -2813,5 +2813,5 @@ FAIL src/editing-components/dist/edit-difficulty.test.js
 Test Suites: 6 failed, 18 passed, 24 total
 Tests:       10 failed, 91 passed, 101 total
 Snapshots:   0 total
-Time:        20.493 s
+Time:        15.877 s
 Ran all test suites.
